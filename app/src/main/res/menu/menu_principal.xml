@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rubino.mapsdb4o.Principal">
+    <item
+        android:id="@+id/action_mon"
+        android:orderInCategory="100"
+        android:title="@string/action_mon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_tues"
+        android:orderInCategory="100"
+        android:title="@string/action_tues"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_wed"
+        android:orderInCategory="100"
+        android:title="@string/action_wed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_thurs"
+        android:orderInCategory="100"
+        android:title="@string/action_thurs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_fri"
+        android:orderInCategory="100"
+        android:title="@string/action_fri"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_satur"
+        android:orderInCategory="100"
+        android:title="@string/action_satur"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sund"
+        android:orderInCategory="100"
+        android:title="@string/action_sund"
+        app:showAsAction="never" />
+</menu>

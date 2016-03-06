@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!-- Menu -->
+    <string name="action_mon">Lunes</string>
+    <string name="action_tues">Martes</string>
+    <string name="action_wed">Miercoles</string>
+    <string name="action_thurs">Jueves</string>
+    <string name="action_fri">Viernes</string>
+    <string name="action_satur">Sabado</string>
+    <string name="action_sund">Domingo</string>
+</resources>
